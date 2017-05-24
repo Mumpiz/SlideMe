@@ -26,3 +26,7 @@ Die Möglichkeit, einen Zug rückgängig zu machen, wurde auf Wunsch hinzugefüg
 Mit dem betätigen der rechten Maustaste wird der zuletzt getätigte Zug rückgängig gemacht
 
 Das Spiel sollte nun nicht mehr abstürzen nach dem "Auswertungsscreen". 
+
+
+
+Siehe auch: https://www.blitzforum.de/showcase/490/
